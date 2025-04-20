@@ -4,6 +4,7 @@ public class Addition{
         int a=10;
         int b=20;
         int sum=0;
+        System.out.println("This is program for adding two numbers");
         System.out.println("Sum of a and b is "+sum)
     }
 }
