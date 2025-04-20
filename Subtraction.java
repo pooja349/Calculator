@@ -5,6 +5,6 @@ public class Addition{
         int b=20;
         int diff=a-b;
         System.out.println("This is program for subtracting two numbers");
-        System.out.println("Sum of a and b is "+diff)
+        System.out.println("Difference between a and b is "+diff)
     }
 }
